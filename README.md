@@ -1,4 +1,5 @@
 # Secrets-App
+*Secrets
 Upload Your Secrets anonymously
 TECH STACK used--> 
 EJS Templating Engine
